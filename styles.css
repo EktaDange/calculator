@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(230, 222, 222) !important;
+}
+
+.col-md-6
+{
+    margin-top: 150px !important;
+    border: 5px solid black;
+    background-color: grey;
+}
+
+input[type=button]
+{
+    width: 100%;
+    background-color: blue;
+    color:  white ;
+    border: 3px solid black;
+    font-weight: bolder;
+}
+
+input[type=text]
+{
+    width: 100%;
+}
